@@ -1,0 +1,31 @@
+There are 3 stage for Selection in BJIT academy.
+
+Stage 1 : Written 
+In this test you get 5 questions based on Problem solving , Oop based ,each quesiton have 10 marks .
+you have to write the solution in their provided sheet.
+
+1. 3 dsa-algorithm based question
+2. 1 output print based question
+3 1 oop based question .
+
+Stage 2 : Appitude Test
+In this test you need to solve 3 types of question . 
+
+1. Mathematical
+2. Logical 
+3. English profecency Test
+
+
+Stage 3 : Technical Interview 
+
+In this test you have to perform several type of technical question.
+
+1. Dsa algorithm based (they provide you a question , you need to solve it. if you pass to write the solution the deep drive deeper .
+2. OOP based(Core concept of oop , abstraction, interface , thread, deadlock etc ) 
+3. SDLC based ( agile etc) 
+4. SQL based( basic sql query  , join ) 
+5. Design patter( it get advantage if you know it)
+
+Stage 4 : Final Viva 
+
+Loading
